@@ -1,0 +1,21 @@
+node_modules/*
+npm-debug.log
+
+
+# Mac stuff
+.DS\_Store
+
+# cache
+.cache/*
+.parcel-cache
+
+dist/
+dist-demo/
+types/*
+
+
+# IDE
+.vimspector.json
+
+# environment
+.env

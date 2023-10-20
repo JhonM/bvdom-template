@@ -1,0 +1,25 @@
+{
+  "name": "bvdom-template",
+  "version": "0.0.1",
+  "description": "Boilerplate starter project based on Typescript, Parcel and Blanc Vdom",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html",
+    "verify": "tsc"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.6.1",
+    "@jhonm/blanc-vdom": "github:jhonm/blanc-vdom"
+  },
+  "devDependencies": {
+    "typescript": "4.4.4"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": [
+    "typescript",
+    "javascript"
+  ]
+}
