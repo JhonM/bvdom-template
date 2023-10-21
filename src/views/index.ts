@@ -1,1 +1,1 @@
-export { exampleView as ExampleView } from "./exampleView";
+export { exampleView as ExampleView } from "./example-view";
